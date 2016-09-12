@@ -1,8 +1,9 @@
-Hello world
-
-new text
-
-Hello world my friend
+Hello world;
 
 
-Hello world my man
+new text;
+
+Hello world my friend;
+
+
+Hello world my man;
