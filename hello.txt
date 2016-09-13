@@ -1,11 +1,11 @@
-Hello world;
+Hello world;!
 
 
-new text;
+new text;!
 
-Hello world my friend;
+Hello world my friend;!
 
 
-Hello world my man;
+Hello world my man;!
 
-<h1>Hello</h1>
+<h1>Hello</h1>!
